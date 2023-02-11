@@ -1,0 +1,3 @@
+﻿  Source.c
+E:\Courses\3rd CESS\Parallel & Cluster Comp\Ass_B\Ass_B\Source.c(17,14): warning C4013: 'rand' undefined; assuming extern returning int
+  Ass_B.vcxproj -> E:\Courses\3rd CESS\Parallel & Cluster Comp\Ass_B\Debug\Ass_B.exe

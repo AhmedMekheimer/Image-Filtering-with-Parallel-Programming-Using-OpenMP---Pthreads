@@ -1,0 +1,4 @@
+﻿  Source.c
+E:\Courses\3rd CESS\Parallel & Cluster Comp\Ass\Ass\Source.c(36,20): warning C4013: 'rand' undefined; assuming extern returning int
+E:\Courses\3rd CESS\Parallel & Cluster Comp\Ass\Ass\Source.c(24): warning C4716: 'sum_array': must return a value
+  Ass.vcxproj -> E:\Courses\3rd CESS\Parallel & Cluster Comp\Ass\Debug\Ass.exe

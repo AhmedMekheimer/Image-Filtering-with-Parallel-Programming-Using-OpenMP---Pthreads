@@ -1,0 +1,17 @@
+﻿  Source.cpp
+E:\Courses\3rd CESS\Parallel & Cluster Comp\Assignments\Ass_2_Seq\Ass_2_Seq\Source.cpp(80,43): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\Courses\3rd CESS\Parallel & Cluster Comp\Assignments\Ass_2_Seq\Ass_2_Seq\Source.cpp(81,43): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\Courses\3rd CESS\Parallel & Cluster Comp\Assignments\Ass_2_Seq\Ass_2_Seq\Source.cpp(82,43): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  Ass_2_Seq.vcxproj -> E:\Courses\3rd CESS\Parallel & Cluster Comp\Assignments\Ass_2_Seq\x64\Debug\Ass_2_Seq.exe
